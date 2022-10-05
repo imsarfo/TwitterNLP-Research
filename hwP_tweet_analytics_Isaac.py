@@ -1,5 +1,5 @@
 """
-CSC1380 HwP - Tweet Analytics Project
+Tweet Analytics Project
 Name: ISAAC SARFO
 """
 
